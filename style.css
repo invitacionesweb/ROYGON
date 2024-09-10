@@ -368,6 +368,14 @@ footer img {
         display: grid;
         grid-template-columns: 1fr 1fr; 
     }
+    .galeria1 {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr; 
+    }
+    .galeria1 img {
+        width: 100vw;
+    }
    .f8 {
        display: none;
    }
